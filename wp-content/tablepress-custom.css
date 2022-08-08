@@ -1,0 +1,22 @@
+.tablepress-id-1 tbody td {
+	font-family: urbanist-regular, Arial, sans-serif;
+	font-size: 14px;
+}
+
+.tablepress-id-2 tbody td {
+	font-family: urbanist-regular, Arial, sans-serif;
+	font-size: 14px;
+	background-color: #fcfcfc;
+	padding-left: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.tablepress thead th,
+.tablepress tfoot th {
+	background-color: #fcfcfc;
+	color: #000000;
+	padding-left: 40px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
